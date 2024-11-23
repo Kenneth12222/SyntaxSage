@@ -67,8 +67,9 @@
 
 - 1. Clone the Repository
 ```
-git clone https://github.com/your-username/interactive-code-assistant.git
-cd interactive-code-assistant
+git clone https://github.com/Kenneth12222/SyntaxSage.git
+
+cd StntaxSage
 ```
 
 - 2. Install Dependencies
