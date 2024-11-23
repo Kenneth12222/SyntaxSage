@@ -1,5 +1,5 @@
----
 # SyntaxSage
+---
 # Interactive Code Assistant for VS Code
 
 - Enhance your coding experience with real-time AI-powered code analysis, correction, and suggestions directly within your VS Code editor.
